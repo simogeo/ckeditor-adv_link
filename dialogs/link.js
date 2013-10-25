@@ -369,7 +369,7 @@ CKEDITOR.dialog.add( 'link', function( editor ) {
 						title : linkLang.selectPageTitle,
 						// items: eval(decodeURIComponent(document.getElementById("pageListJSON").value)),
 						items : [],
-						setup : function(element) {
+						onLoad : function(element) {
 					        var element_id = '#' + this.getInputElement().$.id;
 					        // ajax call indpired from http://stackoverflow.com/questions/5293920/ckeditor-dynamic-select-in-a-dialog
 					        $.ajax({
