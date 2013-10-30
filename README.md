@@ -20,7 +20,8 @@ I really think it would be great to replace the select input by a list of links 
 How to install it ?
 --------------------
 
-1) Download and extract `adv_link` folder into CKEditor plugin
+1) Download and extract `adv_link` folder into CKEditor plugins folder
+
 2) Disable default link plugin and enable the new one. To do so, in your config.js file :
 
 ```javascript
