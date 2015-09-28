@@ -1,8 +1,8 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'adv_link', 'si', {
+CKEDITOR.plugins.setLang( 'link', 'si', {
 	acccessKey: 'ප්‍රවේශ  යතුර',
 	advanced: 'දීය',
 	advisoryContentType: 'උපදේශාත්මක අන්තර්ගත ආකාරය',
@@ -62,4 +62,4 @@ CKEDITOR.plugins.setLang( 'adv_link', 'si', {
 	type: 'Link Type', // MISSING
 	unlink: 'Unlink', // MISSING
 	upload: 'උඩුගතකිරීම'
-});
+} );

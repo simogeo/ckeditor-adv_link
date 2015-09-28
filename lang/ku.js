@@ -1,8 +1,8 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'adv_link', 'ku', {
+CKEDITOR.plugins.setLang( 'link', 'ku', {
 	acccessKey: 'کلیلی دەستپێگەیشتن',
 	advanced: 'پێشکەوتوو',
 	advisoryContentType: 'جۆری ناوەڕۆکی ڕاویژکار',
@@ -62,4 +62,4 @@ CKEDITOR.plugins.setLang( 'adv_link', 'ku', {
 	type: 'جۆری بەستەر',
 	unlink: 'لابردنی بەستەر',
 	upload: 'بارکردن'
-});
+} );

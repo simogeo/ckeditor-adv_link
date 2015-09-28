@@ -1,8 +1,8 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'adv_link', 'id', {
+CKEDITOR.plugins.setLang( 'link', 'id', {
 	acccessKey: 'Access Key', // MISSING
 	advanced: 'Advanced', // MISSING
 	advisoryContentType: 'Advisory Content Type', // MISSING
@@ -62,4 +62,4 @@ CKEDITOR.plugins.setLang( 'adv_link', 'id', {
 	type: 'Link Type', // MISSING
 	unlink: 'Unlink', // MISSING
 	upload: 'Unggah'
-});
+} );

@@ -1,8 +1,8 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'adv_link', 'zh-cn', {
+CKEDITOR.plugins.setLang( 'link', 'zh-cn', {
 	acccessKey: '访问键',
 	advanced: '高级',
 	advisoryContentType: '内容类型',
@@ -62,4 +62,4 @@ CKEDITOR.plugins.setLang( 'adv_link', 'zh-cn', {
 	type: '超链接类型',
 	unlink: '取消超链接',
 	upload: '上传'
-});
+} );

@@ -1,8 +1,8 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'adv_link', 'vi', {
+CKEDITOR.plugins.setLang( 'link', 'vi', {
 	acccessKey: 'Phím hỗ trợ truy cập',
 	advanced: 'Mở rộng',
 	advisoryContentType: 'Nội dung hướng dẫn',
@@ -62,4 +62,4 @@ CKEDITOR.plugins.setLang( 'adv_link', 'vi', {
 	type: 'Kiểu liên kết',
 	unlink: 'Xoá liên kết',
 	upload: 'Tải lên'
-});
+} );

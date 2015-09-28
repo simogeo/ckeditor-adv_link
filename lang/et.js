@@ -1,8 +1,8 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'adv_link', 'et', {
+CKEDITOR.plugins.setLang( 'link', 'et', {
 	acccessKey: 'Juurdepääsu võti',
 	advanced: 'Täpsemalt',
 	advisoryContentType: 'Juhendava sisu tüüp',
@@ -62,4 +62,4 @@ CKEDITOR.plugins.setLang( 'adv_link', 'et', {
 	type: 'Lingi liik',
 	unlink: 'Lingi eemaldamine',
 	upload: 'Lae üles'
-});
+} );

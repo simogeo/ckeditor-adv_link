@@ -1,8 +1,8 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'adv_link', 'bg', {
+CKEDITOR.plugins.setLang( 'link', 'bg', {
 	acccessKey: 'Ключ за достъп',
 	advanced: 'Разширено',
 	advisoryContentType: 'Препоръчителен тип на съдържанието',
@@ -62,4 +62,4 @@ CKEDITOR.plugins.setLang( 'adv_link', 'bg', {
 	type: 'Тип на връзката',
 	unlink: 'Премахни връзката',
 	upload: 'Качване'
-});
+} );

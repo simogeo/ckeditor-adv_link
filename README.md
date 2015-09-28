@@ -4,6 +4,7 @@ ckeditor-adv_link
 A CKEditor4 link plugin adding the ability to link to local (CMS) pages. Rely on jQuery for ajax calls (un-intrusive).
 This implementation supports internationalisation (see below).
 
+It works with version 4.5.3.
 
 Disclaimer
 ----------

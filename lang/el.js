@@ -1,8 +1,8 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'adv_link', 'el', {
+CKEDITOR.plugins.setLang( 'link', 'el', {
 	acccessKey: 'Συντόμευση',
 	advanced: 'Για Προχωρημένους',
 	advisoryContentType: 'Ενδεικτικός Τύπος Περιεχομένου',
@@ -62,4 +62,4 @@ CKEDITOR.plugins.setLang( 'adv_link', 'el', {
 	type: 'Τύπος Συνδέσμου',
 	unlink: 'Αφαίρεση Συνδέσμου',
 	upload: 'Αποστολή'
-});
+} );

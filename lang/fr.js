@@ -1,5 +1,5 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
 CKEDITOR.plugins.setLang( 'adv_link', 'fr', {
@@ -58,11 +58,11 @@ CKEDITOR.plugins.setLang( 'adv_link', 'fr', {
 	targetPopup: '<fenêtre popup>',
 	targetPopupName: 'Nom de la fenêtre popup',
 	title: 'Lien',
-	toAnchor: 'Transformer le lien en ancre dans le texte',
+	toAnchor: 'Ancre',
 	toEmail: 'E-mail',
 	toUrl: 'URL',
 	toolbar: 'Lien',
 	type: 'Type de lien',
 	unlink: 'Supprimer le lien',
 	upload: 'Envoyer'
-});
+} );

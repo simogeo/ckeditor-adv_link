@@ -1,8 +1,8 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'adv_link', 'eo', {
+CKEDITOR.plugins.setLang( 'link', 'eo', {
 	acccessKey: 'Fulmoklavo',
 	advanced: 'Speciala',
 	advisoryContentType: 'Enhavotipo',
@@ -62,4 +62,4 @@ CKEDITOR.plugins.setLang( 'adv_link', 'eo', {
 	type: 'Tipo de Ligilo',
 	unlink: 'Forigi Ligilon',
 	upload: 'Alŝuti'
-});
+} );

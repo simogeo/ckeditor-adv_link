@@ -1,8 +1,8 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'adv_link', 'fi', {
+CKEDITOR.plugins.setLang( 'link', 'fi', {
 	acccessKey: 'Pikanäppäin',
 	advanced: 'Lisäominaisuudet',
 	advisoryContentType: 'Avustava sisällön tyyppi',
@@ -62,4 +62,4 @@ CKEDITOR.plugins.setLang( 'adv_link', 'fi', {
 	type: 'Linkkityyppi',
 	unlink: 'Poista linkki',
 	upload: 'Lisää tiedosto'
-});
+} );

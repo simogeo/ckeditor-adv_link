@@ -1,8 +1,8 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'adv_link', 'sk', {
+CKEDITOR.plugins.setLang( 'link', 'sk', {
 	acccessKey: 'Prístupový kľúč',
 	advanced: 'Rozšírené',
 	advisoryContentType: 'Pomocný typ obsahu',
@@ -62,4 +62,4 @@ CKEDITOR.plugins.setLang( 'adv_link', 'sk', {
 	type: 'Typ odkazu',
 	unlink: 'Odstrániť odkaz',
 	upload: 'Nahrať'
-});
+} );

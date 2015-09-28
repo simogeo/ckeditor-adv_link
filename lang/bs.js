@@ -1,8 +1,8 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'adv_link', 'bs', {
+CKEDITOR.plugins.setLang( 'link', 'bs', {
 	acccessKey: 'Pristupna tipka',
 	advanced: 'Naprednije',
 	advisoryContentType: 'Advisory vrsta sadržaja',
@@ -62,4 +62,4 @@ CKEDITOR.plugins.setLang( 'adv_link', 'bs', {
 	type: 'Tip linka',
 	unlink: 'Izbriši link',
 	upload: 'Šalji'
-});
+} );

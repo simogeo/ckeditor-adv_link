@@ -1,8 +1,8 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'adv_link', 'he', {
+CKEDITOR.plugins.setLang( 'link', 'he', {
 	acccessKey: 'מקש גישה',
 	advanced: 'אפשרויות מתקדמות',
 	advisoryContentType: 'Content Type מוצע',
@@ -62,4 +62,4 @@ CKEDITOR.plugins.setLang( 'adv_link', 'he', {
 	type: 'סוג קישור',
 	unlink: 'הסרת הקישור',
 	upload: 'העלאה'
-});
+} );

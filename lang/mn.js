@@ -1,8 +1,8 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'adv_link', 'mn', {
+CKEDITOR.plugins.setLang( 'link', 'mn', {
 	acccessKey: 'Холбох түлхүүр',
 	advanced: 'Нэмэлт',
 	advisoryContentType: 'Зөвлөлдөх төрлийн агуулга',
@@ -62,4 +62,4 @@ CKEDITOR.plugins.setLang( 'adv_link', 'mn', {
 	type: 'Линкийн төрөл',
 	unlink: 'Холбоос авч хаях',
 	upload: 'Хуулах'
-});
+} );

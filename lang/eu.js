@@ -1,8 +1,8 @@
 ﻿/*
-Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'adv_link', 'eu', {
+CKEDITOR.plugins.setLang( 'link', 'eu', {
 	acccessKey: 'Sarbide-gakoa',
 	advanced: 'Aurreratua',
 	advisoryContentType: 'Eduki Mota (Content Type)',
@@ -62,4 +62,4 @@ CKEDITOR.plugins.setLang( 'adv_link', 'eu', {
 	type: 'Esteka Mota',
 	unlink: 'Kendu Esteka',
 	upload: 'Gora kargatu'
-});
+} );
