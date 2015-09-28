@@ -2,7 +2,7 @@
 Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'link', 'bs', {
+CKEDITOR.plugins.setLang( 'adv_link', 'bs', {
 	acccessKey: 'Pristupna tipka',
 	advanced: 'Naprednije',
 	advisoryContentType: 'Advisory vrsta sadržaja',

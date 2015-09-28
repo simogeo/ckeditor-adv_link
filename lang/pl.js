@@ -2,7 +2,7 @@
 Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'link', 'pl', {
+CKEDITOR.plugins.setLang( 'adv_link', 'pl', {
 	acccessKey: 'Klawisz dostępu',
 	advanced: 'Zaawansowane',
 	advisoryContentType: 'Typ MIME obiektu docelowego',

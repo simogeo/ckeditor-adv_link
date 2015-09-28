@@ -2,7 +2,7 @@
 Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'link', 'fa', {
+CKEDITOR.plugins.setLang( 'adv_link', 'fa', {
 	acccessKey: 'کلید دستیابی',
 	advanced: 'پیشرفته',
 	advisoryContentType: 'نوع محتوای کمکی',

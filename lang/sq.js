@@ -2,7 +2,7 @@
 Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'link', 'sq', {
+CKEDITOR.plugins.setLang( 'adv_link', 'sq', {
 	acccessKey: 'Sipas ID-së së Elementit',
 	advanced: 'Të përparuara',
 	advisoryContentType: 'Lloji i Përmbajtjes Këshillimore',

@@ -2,7 +2,7 @@
 Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'link', 'zh', {
+CKEDITOR.plugins.setLang( 'adv_link', 'zh', {
 	acccessKey: '便捷鍵',
 	advanced: '進階',
 	advisoryContentType: '建議內容類型',

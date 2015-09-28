@@ -2,7 +2,7 @@
 Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'link', 'lv', {
+CKEDITOR.plugins.setLang( 'adv_link', 'lv', {
 	acccessKey: 'Pieejas taustiņš',
 	advanced: 'Izvērstais',
 	advisoryContentType: 'Konsultatīvs satura tips',
